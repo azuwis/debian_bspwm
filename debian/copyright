@@ -1,0 +1,104 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: bspwm
+Source: https://github.com/baskerville/bspwm
+
+Files:     .gitignore
+           Makefile
+           Sourcedeps
+           bspc.c
+           bspwm.c
+           bspwm.h
+           common.h
+           contrib/bash_completion
+           contrib/freedesktop/bspwm-session
+           contrib/freedesktop/bspwm.desktop
+           contrib/zsh_completion
+           desktop.c
+           desktop.h
+           doc/CONTRIBUTING.md
+           doc/INSTALL.md
+           doc/MISC.md
+           doc/TODO.md
+           doc/bspwm.1
+           doc/bspwm.1.txt
+           events.c
+           events.h
+           ewmh.c
+           ewmh.h
+           examples/bspwmrc
+           examples/external_rules/bspwmrc
+           examples/external_rules/external_rules
+           examples/external_rules/pseudo_automatic_mode/README.md
+           examples/external_rules/pseudo_automatic_mode/external_rules
+           examples/loop/bspwmrc
+           examples/loop/profile
+           examples/loop/sxhkdrc
+           examples/loop/wm
+           examples/loop/xinitrc
+           examples/overlapping_borders/bspwmrc
+           examples/panel/bspwmrc
+           examples/panel/panel
+           examples/panel/panel_bar
+           examples/panel/panel_colors
+           examples/panel/profile
+           examples/panel/sxhkdrc
+           examples/sxhkdrc
+           helpers.c
+           helpers.h
+           history.c
+           history.h
+           messages.c
+           messages.h
+           monitor.c
+           monitor.h
+           pointer.c
+           pointer.h
+           query.c
+           query.h
+           restore.c
+           restore.h
+           rule.c
+           rule.h
+           settings.c
+           settings.h
+           stack.c
+           stack.h
+           subscribe.c
+           subscribe.h
+           tree.c
+           tree.h
+           types.h
+           window.c
+           window.h
+Copyright: 2012 Bastien Dejean
+           __NO_COPYRIGHT_NOR_LICENSE__
+License:   __UNKNOWN__
+
+#----------------------------------------------------------------------------
+# Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following
+# license/copyright files.
+
+#----------------------------------------------------------------------------
+# License file: LICENSE
+ Copyright (c) 2012, Bastien Dejean
+ All rights reserved.
+ .
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+ .
+ 1. Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+ 2. Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

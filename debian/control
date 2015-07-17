@@ -1,0 +1,21 @@
+Source: bspwm
+Section: x11
+Priority: extra
+Maintainer: Zhong Jianxin <azuwis@gmail.com>
+Build-Depends: debhelper (>=9),
+               libxcb1-dev,
+               libxcb-util0-dev,
+               libxcb-icccm4-dev,
+               libxcb-ewmh-dev,
+               libxcb-randr0-dev,
+               libxcb-xinerama0-dev
+Standards-Version: 3.9.6
+Homepage: https://github.com/baskerville/bspwm
+
+Package: bspwm
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Binary space partitioning window manager
+ A tiling window manager that represents windows as the leaves of a full binary
+ tree.
