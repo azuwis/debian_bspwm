@@ -1,3 +1,9 @@
+bspwm (0.9+git26+09c603a-build1) UNRELEASED; urgency=medium
+
+  * New upstream snapshot.
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Thu, 13 Aug 2015 14:40:49 +0800
+
 bspwm (0.9+git19+639763c-build1) unstable; urgency=low
 
   * Initial release.
