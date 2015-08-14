@@ -10,7 +10,7 @@ PREFIX   ?= /usr/local
 BINPREFIX = $(PREFIX)/bin
 MANPREFIX = $(PREFIX)/share/man
 BASHCPL = $(PREFIX)/share/bash-completion/completions
-ZSHCPL = $(PREFIX)/share/zsh/site-functions
+ZSHCPL = $(PREFIX)/share/zsh/vendor-completions
 DOCPREFIX = $(PREFIX)/share/doc/bspwm
 
 MD_DOCS = doc/CONTRIBUTING.md doc/INSTALL.md doc/MISC.md doc/TODO.md
