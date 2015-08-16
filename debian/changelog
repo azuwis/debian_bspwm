@@ -1,6 +1,12 @@
-bspwm (0.9+git26+09c603a-build2) UNRELEASED; urgency=medium
+bspwm (0.9+git27+5f74f08-build1) unstable; urgency=medium
 
-  * d/p: Fix zsh completion
+  * New upstream snapshot.
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Sun, 16 Aug 2015 22:37:16 +0800
+
+bspwm (0.9+git26+09c603a-build2) unstable; urgency=medium
+
+   * d/p: Fix zsh completion
 
  -- Zhong Jianxin <azuwis@gmail.com>  Fri, 14 Aug 2015 09:55:32 +0800
 
